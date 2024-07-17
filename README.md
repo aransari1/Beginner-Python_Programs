@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Python Learning Journey">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdmYW9uazJtc2dybnQxc3k4empmdjM1bzhscXl1M2t3andqN29ycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="100%" alt="Python Learning Journey">
 
 ## Python Basics: Building Blocks for Learners 🐍
 
