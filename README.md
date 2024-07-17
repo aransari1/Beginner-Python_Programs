@@ -39,4 +39,4 @@ Wishing you all the best on your Python learning journey 🌟 Keep coding, keep 
 Abdurrahman Ansari
 GitHub Username: [@aransari1](https://github.com/aransari1)
 
-<img src="<img src="https://i.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="100%" alt="Python Coding">" width="100%" alt="Python Coding">
+<img src="<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBrYjFlb24yOTJ0czBvejg1bHRnZ3Y3YnQwdTFsaDVrdmx2OGExMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100%" alt="Python Coding">
